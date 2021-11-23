@@ -1,6 +1,12 @@
-body {
-    background-color:black;
-  }
+body
+ {background-color: rgb(151, 152, 192);}
 
+ h {
+     font-size:80px;
+     text-align: center;
+     background-color: rgb(255, 235, 205);
+     color:rgb(41, 67, 116);
+     text-shadow: 2px 2px 5px rgb(97, 126, 134);
+ }
 
 
