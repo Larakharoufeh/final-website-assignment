@@ -31,9 +31,12 @@ body
     text-shadow: rgb(33, 14, 37);
 }
 .UX-section {
-    font:50px;
+    font:40px;
     text-align:center;
     background-color:hsl(310, 82%, 78%);
     color:rgb(210, 10, 236);;
     text-shadow: rgb(190, 13, 235);
 }
+
+
+
