@@ -15,6 +15,32 @@ body
     color:rgb(53, 12, 58);;
     text-shadow:  rgb(190, 13, 235);
 }
+.TypeTask {
+    height:200;
+    flex-wrap:flex;
+flex-direction:row;
+flex-wrap: wrap;
+}
+.axial {
+    background-color:darkgrey;
+    width: 200px;
+    display:flex;
+    align-items:center;
+}
+.dilatational {
+    background-color:darkgrey;
+    width: 200px;
+    display:flex;
+    align-items:center;
+
+}
+
+
+
+
+
+
+
  .CARP-TASK {
     
     text-align: center;
