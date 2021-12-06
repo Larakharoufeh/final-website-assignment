@@ -1,17 +1,17 @@
 body
- {background-color: rgb(151, 152, 192);}
+ {background-color: rgb(5, 6, 110);}
 
  .website-title {
      font-size:80px;
      text-align: center;
-     background-color: rgb(255, 235, 205);
-     color:rgb(41, 67, 116);
+     background-color: hsl(187, 63%, 61%);
+     color:rgb(164, 182, 216);
      text-shadow: 2px 2px 5px rgb(97, 126, 134);
  }
 .typogrphy-section {
     font: size 40px;
     text-align: center;
-    background-color:cornsilk;
+    background-color:rgb(190, 222, 226);
     color:darkblue;
     text-shadow: 2px 2px 5px rgb(97, 126, 134);
 }
