@@ -23,4 +23,18 @@ body
     text-shadow: 2px 2px 5px rgb(97, 126, 134);
 
  }
+.CODING-TASK {
+    font: size 40px;
+    text-align: center;
+    background-color:rgb(150, 189, 194);
+    color:darkblue;
+    text-shadow: 2px 2px 5px rgb(97, 126, 134);
 
+}
+.UX-section {
+    font:40px;
+    text-align:center;
+    background-color:rgb(134, 175, 180);
+    color:darkblue;
+    text-shadow:2px 2px 5px rgb(97, 126, 134);
+}
