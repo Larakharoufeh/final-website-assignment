@@ -10,29 +10,66 @@ body
  }
 .typogrphy-section {
     
-    text-align: center;
+    text-align:center;
     background-color:hsl(310, 82%, 78%);
     color:rgb(53, 12, 58);;
     text-shadow:  rgb(190, 13, 235);
 }
 .TypeTask {
-    height:200;
+    width:400px;
     flex-wrap:flex;
 flex-direction:row;
 flex-wrap: wrap;
 }
 .axial {
-    background-color:darkgrey;
-    width: 200px;
+    background-color:rgb(30, 32, 165);
+    width: 400px;
     display:flex;
     align-items:center;
 }
 .dilatational {
     background-color:darkgrey;
-    width: 200px;
+    width: 400px;
     display:flex;
     align-items:center;
+}
+.bilateral {
+    background-color:darkgrey;
+    width: 400px;
+    display:flex;
+    align-items:center;
+}
 
+.random {
+    background-color:darkgrey;
+    width: 400px;
+    display:flex;
+    align-items:center;
+}
+.transitional {
+    background-color:darkgrey;
+    width: 400px;
+    display:flex;
+    align-items:center;
+}
+
+.modular {
+    background-color:darkgrey;
+    width: 400px;
+    display:flex;
+    align-items:center;
+}
+.grid {
+    background-color:darkgrey;
+    width: 400px;
+    display:flex;
+    align-items:center;
+}
+.radial {
+    background-color:darkgrey;
+    width: 400px;
+    display:flex;
+    align-items:center;
 }
 
 
