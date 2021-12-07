@@ -1,124 +1,123 @@
 body
- {background-color: rgb(44, 9, 33);}
+ {background-color: rgb(0, 0, 0);}
 
  .website-title {
-     font-size:80px;
+     font-size:50px;
      text-align: center;
-     background-color: hsl(310, 82%, 78%);
-     color:rgb(212, 31, 236);
-     text-shadow:  rgb(190, 13, 235);
+     background-color: hsl(0, 0%, 0%);
+     color:rgb(255, 255, 255);
  }
-.typogrphy-section {
-    
-    text-align:center;
-    background-color:hsl(310, 82%, 78%);
-    color:rgb(53, 12, 58);;
-    text-shadow:  rgb(190, 13, 235);
-}
-.TypeTask {
-    display:flex;
-    width:500px;
-    flex-wrap:flex;
-flex-direction:row;
-flex-wrap: wrap;
-}
-.axial {
-    background-color:rgb(30, 32, 165);
-    width: 500px;
-    align-items:center;
-    text-align:column;
-}
-.dilatational {
-    background-color:darkgrey;
-    width: 500px;
-    align-items:center;
-}
-.bilateral {
-    background-color:darkgrey;
-    width: 500px;
-    align-items:center;
-}
-
-.random {
-    background-color:darkgrey;
-    width: 500px;
-    align-items:center;
-}
-.transitional {
-    background-color:darkgrey;
-    width: 500px;
-    align-items:center;
-}
-
-.modular {
-    background-color:darkgrey;
-    width: 500px;
-    align-items:center;
-    text-align:column;
-}
-.grid {
-    background-color:darkgrey;
-    width: 500px;
-    align-items:center;
-}
-.radial {
-    background-color:darkgrey;
-    width: 500px;
-    align-items:center;
-}
-
-
-
-
-
-
-
- .CARP-TASK {
-    
-    text-align: center;
-    background-color:hsl(310, 82%, 78%);
-    color:rgb(213, 33, 236);;
-    text-shadow:  rgb(42, 13, 49);
-
- }
-
  h2 {
-     font-size: 50px;
+    font-size: 60px;
  }
 
- .poster-container {
-     display: flex;
-     align-items: center;
-  justify-content:center;
-  padding: 100x;
- }
+.typogrphy-section {
+    background-color:rgb(8, 8, 224);
+    text-align:center;
+    color:rgb(118, 152, 204);;
+}
 
-.MAINPOSTER {
-    width: 400px;
+.TypeTask {
+  display:flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
 }
-.poster-container {
-    display:flex;
-    align-items: center;
-  justify-content:center;
+
+.CARP-TASK {
+    background-color: rgb(172, 12, 12);
+    text-align: center;
+    color:rgb(0, 0, 0)
 }
-.posters{
-    height:200px;
+.carp {
+display:flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+}
+
+.type-container img{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    align-items:center;
+    padding:10px;
+}
+
+.type-container  p{
+    width: 300px;
+    align-items:center;
+    flex-direction:column;
+
+}
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+.CARP-TASK img{
     
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
 }
+
+ .poster-container1  img{
+     width: 200px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    align-items: center;
+    padding: 10px;
+ }
+ 
+
+ .poster-container2 img{
+     width:400px;
+    background-color: rgb(0, 0, 0);
+    float: center;
+    align-items:center;
+    padding: 10px;
+ } 
+
+ .poster-container3 img{
+     width:200px;
+    background-color: rgb(0, 0, 0);
+    float:right;
+    align-items:center;
+    padding: 10px;
+ }
+ 
+
+ 
+ 
+
+ 
+ 
+   
+ 
+
+
 
 
 .CODING-TASK {
     
     text-align: center;
-    background-color:hsl(310, 82%, 78%);
+    background-color:hsl(0, 0%, 0%);
     color:rgb(212, 42, 235);;
     text-shadow: rgb(33, 14, 37);
 }
 .UX-section {
     
     text-align:center;
-    background-color:hsl(310, 82%, 78%);
-    color:rgb(210, 10, 236);;
+    background-color:hsl(0, 0%, 0%);
+    color:rgb(75, 7, 7);;
     text-shadow: rgb(190, 13, 235);
 }
 
