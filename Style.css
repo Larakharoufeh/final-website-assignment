@@ -16,59 +16,54 @@ body
     text-shadow:  rgb(190, 13, 235);
 }
 .TypeTask {
-    width:400px;
+    display:flex;
+    width:500px;
     flex-wrap:flex;
 flex-direction:row;
 flex-wrap: wrap;
 }
 .axial {
     background-color:rgb(30, 32, 165);
-    width: 400px;
-    display:flex;
+    width: 500px;
     align-items:center;
+    text-align:column;
 }
 .dilatational {
     background-color:darkgrey;
-    width: 400px;
-    display:flex;
+    width: 500px;
     align-items:center;
 }
 .bilateral {
     background-color:darkgrey;
-    width: 400px;
-    display:flex;
+    width: 500px;
     align-items:center;
 }
 
 .random {
     background-color:darkgrey;
-    width: 400px;
-    display:flex;
+    width: 500px;
     align-items:center;
 }
 .transitional {
     background-color:darkgrey;
-    width: 400px;
-    display:flex;
+    width: 500px;
     align-items:center;
 }
 
 .modular {
     background-color:darkgrey;
-    width: 400px;
-    display:flex;
+    width: 500px;
     align-items:center;
+    text-align:column;
 }
 .grid {
     background-color:darkgrey;
-    width: 400px;
-    display:flex;
+    width: 500px;
     align-items:center;
 }
 .radial {
     background-color:darkgrey;
-    width: 400px;
-    display:flex;
+    width: 500px;
     align-items:center;
 }
 
@@ -95,7 +90,7 @@ flex-wrap: wrap;
      display: flex;
      align-items: center;
   justify-content:center;
-  padding: 10px;
+  padding: 100x;
  }
 
 .MAINPOSTER {
