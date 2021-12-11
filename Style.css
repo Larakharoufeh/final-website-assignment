@@ -18,6 +18,16 @@ body
     text-align:center;
     color:rgb(191, 244, 248);
 }
+.paragraph {
+    background-color: rgb(14, 14, 240);
+    font-style: oblique;
+    text-align:center;
+    font-size: larger;
+    color: rgb(191, 244, 248);
+    
+    
+}
+
 
 .TypeTask {
   display:flex;
