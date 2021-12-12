@@ -141,6 +141,11 @@ display:flex;
     color:rgb(75, 7, 7);;
     text-shadow: rgb(190, 13, 235);
 }
+.CODING-TASK {
+    background-image:url(images/purplebackground.jpg);
+     text-align:center;
+     color:rgb(186, 145, 209);
+}
 
 
 
