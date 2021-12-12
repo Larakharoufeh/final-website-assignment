@@ -19,13 +19,11 @@ body
     color:rgb(191, 244, 248);
 }
 .paragraph {
-    background-color: rgb(14, 14, 240);
+    background-color: blue;
     font-style: oblique;
     text-align:center;
     font-size: larger;
-    color: rgb(191, 244, 248);
-    
-    
+    color: rgb(0, 0, 0);
 }
 
 
@@ -53,21 +51,17 @@ body
     flex-direction:column;
 
 }
-.paragraph2 {
-    background-color: rgb(0, 0, 0);
-    font-style: oblique;
-    text-align:center;
-    font-size: larger;
-    color: rgb(238, 6, 6);
-    
-    
-}
-
 
 .CARP-TASK {
     background-image:url(images/red\ option2.jpg);
     text-align: center;
-    color:rgb(0, 0, 0)
+    
+}
+.paragraph2 {
+    background-color: rgb(0, 0, 0);
+    color:rgb(212, 9, 9);
+    text-align: center;
+    font-style: oblique;
 }
 .carp {
 display:flex;
@@ -91,8 +85,16 @@ display:flex;
     align-items: center;
     padding: 10px;
  }
- 
+ .poster-container1 p{
+     width:220px;
+     background-color: rgb(0, 0, 0);
+     align-items: center;
+     color:rgb(167, 33, 33);
+     
 
+ }
+ 
+ 
  .poster-container2 img{
      width:400px;
     background-color: rgb(0, 0, 0);
@@ -100,14 +102,29 @@ display:flex;
     align-items:center;
     padding: 10px;
  }  
+ .poster-container2 p{
+    width:420px;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    color:rgb(167, 33, 33);
+    text-align: center;
+    
+}
 
  .poster-container3 img{
-     width:200px;
+     width:220px;
     background-color: rgb(0, 0, 0);
     float:right;
     align-items:center;
     padding: 10px;
  }
+ .poster-container3 p{
+    width:auto;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    color:rgb(167, 33, 33);
+    
+}
  
 
 .CODING-TASK {
