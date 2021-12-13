@@ -98,7 +98,7 @@ display:flex;
     padding: 10px;
  }
  .poster-container1 p{
-     width:240px;
+     width:260px;
      background-color:rgb(212, 9, 9);
      align-items: center;
      color:black;
@@ -133,7 +133,7 @@ display:flex;
     padding: 10px;
  }
  .poster-container3 p{
-    width:240px;
+    width:260px;
     background-color: rgb(212, 9, 9);
     align-items: center;
     color:black;
@@ -143,17 +143,10 @@ display:flex;
  
 
 .CODING-TASK {
-    
-    text-align: center;
-    background-color:hsl(0, 0%, 0%);
-    color:rgb(212, 42, 235);;
-    text-shadow: rgb(33, 14, 37);
-}
-
-.CODING-TASK {
     background-image:url(images/purplebackground.jpg);
      text-align:center;
      color:rgb(186, 145, 209);
+     
 }
 .paragraph3 {
     background-color: rgb(45, 20, 78);
@@ -161,10 +154,34 @@ display:flex;
     text-align: center;
     font-style: oblique;
 }
+
+.poster-container4 {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+
+}
+
+.poster-container4 img{
+    background-color: rgb(152, 112, 189);
+    padding:10px;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.links {
+    background-color: rgb(152, 112, 189);
+    text-align: center;
+   
+}
+
+
 .USEREXPERIENCETASK  {
     background-image:url(images/greenbackground.jpg);
     text-align:center;
-    color:rgb(0, 155, 111);
+    color:rgb(10, 119, 88);
     
 }
 .paragraph4 {
