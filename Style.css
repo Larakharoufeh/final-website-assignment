@@ -194,7 +194,9 @@ display:flex;
     flex-direction:row;
     flex-wrap:wrap;
     justify-content:space-evenly;
+
 }
+
 .paragraph4 {
     background-color: rgb(97, 241, 200);
     color:black;
