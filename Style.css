@@ -4,10 +4,22 @@ body
  .website-title {
      font-size:80px;
      text-align:center;
-     background-color: hsl(0, 0%, 0%);
+     background-color: rgb(238, 143, 209);
      color:rgb(255, 255, 255);
-    
  }
+ .intropage {
+    background-image:url(images/pinkbackground.jpg);
+     
+ } 
+ .firstparagraph {
+    background-color: rgb(238, 143, 209);
+    font-style: oblique;
+    text-align:center;
+    font-size: larger;
+    color: rgb(0, 0, 0);
+}
+    
+ 
  h2 {
     font-size: 60px;
     font-style:oblique;
@@ -79,14 +91,14 @@ display:flex;
 }
 
  .poster-container1  img{
-     width: 200px;
+     width: 240px;
     background-color: rgb(0, 0, 0);
     float: left;
     align-items: center;
     padding: 10px;
  }
  .poster-container1 p{
-     width:220px;
+     width:240px;
      background-color: rgb(0, 0, 0);
      align-items: center;
      color:rgb(167, 33, 33);
@@ -112,18 +124,17 @@ display:flex;
 }
 
  .poster-container3 img{
-     width:220px;
+     width:240px;
     background-color: rgb(0, 0, 0);
     float:right;
     align-items:center;
     padding: 10px;
  }
  .poster-container3 p{
-    width:220px;
+    width:240px;
     background-color: rgb(0, 0, 0);
     align-items: center;
     color:rgb(167, 33, 33);
-    text-align:center;
     
 }
  
@@ -135,18 +146,31 @@ display:flex;
     color:rgb(212, 42, 235);;
     text-shadow: rgb(33, 14, 37);
 }
-.UX-section {
-    
-    text-align:center;
-    background-color:hsl(0, 0%, 0%);
-    color:rgb(75, 7, 7);;
-    text-shadow: rgb(190, 13, 235);
-}
+
 .CODING-TASK {
     background-image:url(images/purplebackground.jpg);
      text-align:center;
      color:rgb(186, 145, 209);
 }
+.paragraph3 {
+    background-color: rgb(45, 20, 78);
+    color:rgb(186, 145, 209);
+    text-align: center;
+    font-style: oblique;
+}
+.UX-section {
+    background-image:url(images/greenbackground.jpg) ;
+    text-align:center;
+    color:rgb(0, 155, 111);
+    
+}
+.paragraph4 {
+    background-color: rgb(97, 241, 200);
+    color:black;
+    text-align: center;
+    font-style: oblique;
+}
+
 
 
 
