@@ -1,0 +1,7 @@
+ Code:Html.am. 2021. HTML Slide-In Text. [online] Available at: <https://www.html.am/html-codes/marquees/html-slide-in-text.cfm> [Accessed 14 December 2021].
+------
+<marquee behaivior="slide" direction="left">
+    <header>
+    <div class="website-title">WELCOME TO MY WEBSITE!</div>
+    </header>
+    </marquee>
