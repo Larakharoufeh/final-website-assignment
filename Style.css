@@ -8,9 +8,34 @@ body
      color:rgb(255, 255, 255);
  }
  .intropage {
-    background-image:url(images/pinkbackground.jpg);
-     
+    background-image:url(images/pinkbackground.jpg); 
  } 
+ button {
+     background:black;
+    border:3px solid rgb(230, 118, 196);
+    border-radius:5px;
+    font-size: large;
+    color:rgb(226, 93, 193);
+    padding:10px;
+    margin: 3px;
+    transition-duration: .4s;
+ } 
+ button:hover {
+    background-color: rgb(215, 134, 221);
+    color:rgb(220, 79, 224);
+}
+button:active {
+    background-color:#f713d1;
+    box-shadow: 0 5px rgb(27, 7, 26);
+    transform: translateY(4px);
+}
+
+ .buttondesign {
+     display:flex;
+     justify-content:center;
+
+ }
+
  .firstparagraph {
     background-color: rgb(238, 143, 209);
     font-style: oblique;
