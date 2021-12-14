@@ -18,10 +18,17 @@ body
     font-size: larger;
     color: rgb(0, 0, 0);
 }
+
+.moodboard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .moodboard img {
+    
     background-color: rgb(238,143,209);
     padding: 10px;
-    float: center;
 }
     
  
